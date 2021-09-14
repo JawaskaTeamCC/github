@@ -53,7 +53,7 @@ Then, name it in a way that you will remember, and take note that by default **t
 
 Once finished, just copy the token:
 
-![imagen](https://user-images.githubusercontent.com/13834659/133248216-95552b59-41cd-46af-a222-e3262e86a5ad.png)
+![imagen](https://user-images.githubusercontent.com/13834659/133248301-0049ef73-f80c-4977-8379-78aca341a4d1.png)
 
 #### Using the token
 
