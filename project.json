@@ -1,0 +1,9 @@
+{
+  "name": "github",
+  "alias": "Monarch",
+  "description": "Require packages directly from github",
+  "authors": [ "sigmasoldi3r" ],
+  "files": {
+    "init.lua": "init.lua"
+  }
+}
